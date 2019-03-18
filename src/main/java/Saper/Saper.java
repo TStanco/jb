@@ -26,11 +26,11 @@ public class Saper {
         int[][] poleArray = new int[wysokosc][szerokosc];
         System.out.println(poleArray.length);
 
-        for (int i = 0; i < wysokosc; i++)
-            poleArray = {};
-            for (int j = 0; j < szerokosc; j++) {
-               poleArray = {j};
-            }
+        for (int i = 0; i < wysokosc; i++);
+//            poleArray = {};
+//            for (int j = 0; j < szerokosc; j++) {
+//               poleArray = {j};
+//            }
     }
 
 

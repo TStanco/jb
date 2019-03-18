@@ -11,11 +11,8 @@ public class ConcatInt {
 
         String number = Integer.toString(n);
         int result1 = Integer.parseInt(number);
-        int result2 = Integer.parseInt(number + number );
+        int result2 = Integer.parseInt(number + number);
         int result3 = Integer.parseInt(number + number + number);
-        System.out.println("Suma: "+(result1+result2+result3));
-
-//        for (int i = 0; i < 3; i++) {
-//        }
+        System.out.println("Suma: " + (result1 + result2 + result3));
     }
 }

@@ -13,11 +13,11 @@ public class CountSpaces {
             }
         }
         if (numberOfSpaces == 1){
-            System.out.println("Mamy tu jedn¹ spacjê.");
+            System.out.println("Mamy tu jedna spacje.");
         }else if (numberOfSpaces>1&numberOfSpaces<5){
-            System.out.println("W tym tekœcie s¹ "+ numberOfSpaces + " spacje.");
+            System.out.println("W tym tekscie sa "+ numberOfSpaces + " spacje.");
         }else {
-            System.out.println("W tym tekœcie jest " + numberOfSpaces + " spacji.");
+            System.out.println("W tym tekscie jest " + numberOfSpaces + " spacji.");
         }
     }
 }
